@@ -1,0 +1,7 @@
+{
+  "name": "AceTheRole - AI Interview Coach",
+  "description": "A real-time voice-to-voice interview practice platform powered by Gemini Live API. Select your target role, upload your resume context, and practice with a professional AI hiring manager.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
